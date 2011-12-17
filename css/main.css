@@ -1,0 +1,12 @@
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+#ps textarea, .error-message {
+    float: left;
+    display: block;
+}
+#ps input[type="submit"] {
+    clear: both;
+    display: block;
+}
